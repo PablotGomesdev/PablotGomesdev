@@ -23,11 +23,8 @@ Sou **Pablo Teixeira Gomes**, um estudante de **Análise e Desenvolvimento de Si
 * **[Link para seu segundo projeto]** - Breve descrição do projeto.
 
 ## Contato
-
-* **GitHub:** Seu link para o GitHub
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"  /> **LinkedIn:** https://www.linkedin.com/in/pablotgomes/  
-
-* **Email:** [Seu email]👋
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"  />https://www.linkedin.com/in/pablotgomes/  
+* **Email:** pablotgomesdev@gmail.com
 
 <div>
 <a href="https://github.com/PablotGomesdev">
@@ -48,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://github.com/seu-usuário-aqui/PablotGomesdev/blob/output/github-contribution-grid-snake.svg)
