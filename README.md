@@ -23,7 +23,8 @@ Sou **Pablo Teixeira Gomes**, um estudante de **Análise e Desenvolvimento de Si
 * **[Link para seu segundo projeto]** - Breve descrição do projeto.
 
 ## Contato
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"  />https://www.linkedin.com/in/pablotgomes/  
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="20" height="20" />https://www.linkedin.com/in/pablotgomes/
+          
 * **Email:** pablotgomesdev@gmail.com
 
 <div>
