@@ -23,10 +23,9 @@ Sou **Pablo Teixeira Gomes**, um estudante de **Análise e Desenvolvimento de Si
 * **[Link para seu segundo projeto]** - Breve descrição do projeto.
 
 ## Contato
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+<a href = "https://www.linkedin.com/in/pablotgomes/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 
-          
-[![icons8-enviar-48](https://github.com/user-attachments/assets/e84adb28-3de2-4b66-8372-fb5a69b04b06)](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000)
+<a href = "https://mailto:pablotgomesdev@gmail.com"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="mail"/>
 
 
 
