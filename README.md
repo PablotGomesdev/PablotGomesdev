@@ -2,14 +2,10 @@
 
 ## Sobre mim
 
-Sou **Pablo Teixeira Gomes**, um estudante de **Análise e Desenvolvimento de Sistemas**. Possuo formação em **Engenharia Elétrica** e estou sempre buscando aprimorar meus conhecimentos em **tecnologia**.
-
+ Desenvolvedor em formação com experiência em desenvolvimento web (Python, JavaScript, HTML, CSS). Atualmente trabalhando em projetos pessoais para consolidar meus conhecimentos e construir um portfólio. 
+ 
 **Habilidades:**
 
-* **Python:** Desenvolvimento de aplicações web e análise de dados.
-* **HTML e CSS:** Criação de interfaces web.
-* **[Outras habilidades, caso tenha]**
-  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
 
@@ -23,9 +19,7 @@ Sou **Pablo Teixeira Gomes**, um estudante de **Análise e Desenvolvimento de Si
 * **[Link para seu segundo projeto]** - Breve descrição do projeto.
 
 ## Contato
-<a href = "https://www.linkedin.com/in/pablotgomes/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-
-<a href = "mailto:pablotgomesdev@gmail.com"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="mail"/>
+<a href = "https://www.linkedin.com/in/pablotgomes/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/><a href = "mailto:pablotgomesdev@gmail.com"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="mail"/>
 
 
 
