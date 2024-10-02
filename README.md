@@ -25,7 +25,7 @@ Sou **Pablo Teixeira Gomes**, um estudante de **Análise e Desenvolvimento de Si
 ## Contato
 <a href = "https://www.linkedin.com/in/pablotgomes/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 
-<a href = "https://mailto:pablotgomesdev@gmail.com"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="mail"/>
+<a href = "mailto:pablotgomesdev@gmail.com"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="mail"/>
 
 
 
