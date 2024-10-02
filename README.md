@@ -17,10 +17,12 @@
 ### Sorteador de números
 <a href = "https://projeto-sorteador-numeros-6byf.vercel.app"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=pWSk24UwOCsy&format=png&color=000000" alt="projeto"/> 
 
-* **[Link para seu segundo projeto]** - Breve descrição do projeto.
-
+### AluGames
+<a href = "https://projeto-alu-games-kappa.vercel.app/#"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=pWSk24UwOCsy&format=png&color=000000" alt="projeto"/> 
 ## Contato
 <a href = "https://www.linkedin.com/in/pablotgomes/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/><a href = "mailto:pablotgomesdev@gmail.com"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="mail"/>
+
+
 
 
 
