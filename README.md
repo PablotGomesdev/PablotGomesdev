@@ -23,33 +23,17 @@ Sou **Pablo Teixeira Gomes**, um estudante de **Análise e Desenvolvimento de Si
 * **[Link para seu segundo projeto]** - Breve descrição do projeto.
 
 ## Contato
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="20" height="20" />https://www.linkedin.com/in/pablotgomes/
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+
           
-* **Email:** pablotgomesdev@gmail.com
+[![icons8-enviar-48](https://github.com/user-attachments/assets/e84adb28-3de2-4b66-8372-fb5a69b04b06)](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000)
+
+
 
 <div>
 <a href="https://github.com/PablotGomesdev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablotGomesdev&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PablotGomesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<!--
-**PablotGomesdev/PablotGomesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
